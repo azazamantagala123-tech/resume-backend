@@ -1,5 +1,5 @@
 import express from 'express';
-import * as resumeController from '../controllers/resumeController.js';
+import * as resumeController from '../controllers/ResumeController';
 
 const router = express.Router();
 
