@@ -1,5 +1,5 @@
 import Admin from '../models/Admin.js';
-import Resume from '../models/Resume.js';
+import Resume from '../models/resume.js';
 import jwt from 'jsonwebtoken';
 import AppError from '../utils/AppError.js';
 import catchAsync from '../utils/catchAsync.js';
